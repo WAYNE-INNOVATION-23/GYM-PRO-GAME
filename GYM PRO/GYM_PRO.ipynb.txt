@@ -21,7 +21,7 @@
    "id": "5d8d7f32",
    "metadata": {},
    "source": [
-    "    Note. This is a Monash University final year project completed by Kai Lin Wong, Eu Yang Chai and Kee Hong Tan; \n",
+    "    Note.you should allow access to te camera inorder to proceed the game  \n",
     "    under the supervision of Dr Raphael Phan; completed in year 2021.\n",
     "\n",
     "\n",
